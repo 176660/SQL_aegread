@@ -1,4 +1,4 @@
-# Horisontaalne järjestikplaanur
+# Horisontaalne vektoriseerimine
 
 ### `create_tables.sql`
 Fail sisaldab disainilahenduse realiseerimiseks vajalikke lauseid.
